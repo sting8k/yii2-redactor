@@ -15,7 +15,7 @@ php composer.phar require --prefer-dist yiidoc/yii2-redactor "*"
 
  or
 ```
- "yiidoc/yii2-redactor": "*"
+ "sting8k/yii2-redactor": "dev-master"
 ```
 
 to the require section of your composer.json.
