@@ -1,6 +1,6 @@
 yii2-redactor
 =============
-Extension redactor for Yii2 Framework (Fork from yiidoc/yii2-redactor). 
+Extension redactor for Yii2 Framework (Fork from yiidoc/yii2-redactor). **Now can add external imageLink**.
 
 Installation
 ------------
